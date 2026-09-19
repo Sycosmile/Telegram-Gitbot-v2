@@ -49,7 +49,7 @@ A Telegram bot that puts GitHub repo management, CI workflows, and multi-platfor
    pip install -r requirements.txt
    ```
 
-3. Create a `.env` file with these:
+3. Create a `.env` file with:
    ```
    TELEGRAM_TOKEN=your_bot_token
 
